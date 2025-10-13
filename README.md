@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### (Click here to check out my personal portfolio!)[https://hairum-qureshi.dev/]
 <!--
 **Hairum-Qureshi/Hairum-Qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
