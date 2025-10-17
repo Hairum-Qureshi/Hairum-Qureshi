@@ -42,19 +42,3 @@
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=hairum-qureshi&theme=onedark&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🧭 Let's Connect
-
-<p align="center">
-  <a href="https://hairum-qureshi.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hairum-qureshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@hairum-qureshi.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code is more than syntax — it’s a reflection of thought.”</i>
-</p>
