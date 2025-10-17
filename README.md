@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hey there 👋, I'm <a href="https://hairum-qureshi.dev">Hairum Qureshi</a></h1>
-<h3 align="center">💻 Full-Stack Engineer | Building clean, intuitive, and human-centered web experiences</h3>
+<h3 align="center">Building clean, intuitive, and human-centered web experiences</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hairum-qureshi">
