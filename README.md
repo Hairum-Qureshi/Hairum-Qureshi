@@ -45,24 +45,6 @@ I’m a **full-stack web developer** who cares as much about *architecture and m
 - **Backend:** Node.js, NestJS, Express, REST APIs  
 - **Data:** MongoDB, Redis  
 - **DX & Tooling:** TypeScript-first workflows, sane project structure
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hairum-qureshi&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-    height="150"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=hairum-qureshi&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-    height="150"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://github-readme-trophy.vercel.app/?username=hairum-qureshi&theme=onedark&no-bg=true&no-frame=true&margin-w=10"
