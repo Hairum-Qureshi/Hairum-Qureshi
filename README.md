@@ -7,16 +7,6 @@
   Aspiring full-stack engineer focused on scalable systems, clean abstractions, and great developer experience
 </h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hairum-qureshi">
-    <img src="https://komarev.com/ghpvc/?username=hairum-qureshi&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hairum-qureshi">
-    <img src="https://img.shields.io/github/followers/hairum-qureshi?label=Followers&style=flat-square" alt="followers"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
