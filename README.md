@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Aspirign full-stack engineer focused on scalable systems, clean abstractions, and great developer experience
+  Aspiring full-stack engineer focused on scalable systems, clean abstractions, and great developer experience
 </h3>
 
 <p align="center">
