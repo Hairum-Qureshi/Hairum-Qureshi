@@ -1,5 +1,4 @@
-# 💻 Hairum Qureshi
-### Senior Software Engineering Student @ University of Delaware 🦅
+### Senior CS Student with a focus in Software Engineering @ the University of Delaware
 **Seeking Full-Time Software Engineering Roles | Specialized in Scalable Backends & AI Integration**
 
 <p align="center">
