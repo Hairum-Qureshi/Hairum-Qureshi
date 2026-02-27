@@ -8,8 +8,6 @@
 
 <p align="left">
   <a href="https://hairum-qureshi.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hqureshi@udel.edu"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +18,6 @@
 
 * **RAG Implementation:** Recently upgraded the **Vercel/Express** backend by adding **Retrieval-Augmented Generation**. This allows the Gemini model to reference live departmental documents for high-accuracy advising.
 * **Vector Pipeline:** Engineered a retrieval system to provide the LLM with relevant academic data, significantly reducing hallucinations.
-* **Bilingual Support:** Leveraging my proficiency in **Urdu** to explore multi-language support for international students.
 
 ---
 
