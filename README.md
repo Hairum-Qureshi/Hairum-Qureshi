@@ -24,7 +24,8 @@
 *The stack I use to build scalable, production-ready applications.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,socketio,express,react,nodejs,tailwind,ts,nestjs,github,git,vite,html" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,ts,nestjs,github,git,vite,html" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=socketio" />
 </p>
 
 ### 🔍 Currently Exploring
