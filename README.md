@@ -1,53 +1,48 @@
-# 👨‍💻 Hairum Qureshi
-### Full-Stack Engineer | Systems Architect | UX Enthusiast
+# 💻 Hairum Qureshi
+### Senior Software Engineering Student @ University of Delaware 🦅
+**Seeking Full-Time Software Engineering Roles | Specialized in Scalable Backends & AI Integration**
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F749&width=565&height=53&separator=%3C&lines=console.log(%22Hello+there%2C+I'm+Hairum+Qureshi%22);" alt="Typing SVG" /></a>
+</p>
 
 <p align="left">
   <a href="https://hairum-qureshi.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://hairum-qureshi.dev/contact"><img src="https://img.shields.io/badge/Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hqureshi@udel.edu"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📖 The Gist
-I build software with a **"measure twice, cut once"** philosophy. While I ship features fast, I'm obsessed with what happens *after* the PR is merged—scalability, maintainability, and minimizing technical debt.
+### 🚀 Featured Project: Senior Capstone AI
+**CIS Advisor AI Chatbot (Gemini-Powered)**
+*An intelligent advisor-bot designed to help students navigate complex curriculum requirements.*
 
-- **Currently Architecting:** Specialized tools for **Canvas LMS** to streamline student workflows.
-- **Deep Diving:** Advanced backend patterns in **NestJS** and **FastAPI**.
-- **Philosophy:** If the API isn't intuitive, the feature isn't finished.
+* **RAG Implementation:** Recently upgraded the **Vercel/Express** backend by adding **Retrieval-Augmented Generation**. This allows the Gemini model to reference live departmental documents for high-accuracy advising.
+* **Vector Pipeline:** Engineered a retrieval system to provide the LLM with relevant academic data, significantly reducing hallucinations.
+* **Bilingual Support:** Leveraging my proficiency in **Urdu** to explore multi-language support for international students.
 
 ---
 
-### 🛠️ Strategic Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `Python` `Urdu` |
-| **Backend** | `Node.js` `NestJS` `FastAPI` `Express` |
-| **Frontend** | `React` `Tailwind CSS` `Framer Motion` |
-| **Database** | `MongoDB` `Redis` `PostgreSQL` |
-| **Infrastructure** | `AWS S3` `Cloudflare R2` `Docker` |
+### 🛠️ Core Technologies
+*The stack I use to build scalable, production-ready applications.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nestjs,py,fastapi,mongodb,redis,tailwind,aws,cloudflare,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,socketio,express,react,nodejs,tailwind,ts,nestjs,github,git,vite,html" />
+</p>
+
+### 🔍 Currently Exploring
+*Deep-diving into cloud infrastructure, database ORMs, and financial integrations.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,prisma,supabase,firebase,py,redis,stripe" />
 </p>
 
 ---
 
-### 🏗️ Design & DX Principles
-> *"Clean code always looks like it was written by someone who cares."*
+### 🎓 The Senior Year Mission
+I am a senior computer science student at the **University of Delaware**. I focus on building systems that prioritize **clean architecture** and **long-term code quality**.
 
-* **Type Safety Everywhere:** Moving runtime errors to compile-time wherever possible.
-* **Modular Monoliths:** Building NestJS services that are decoupled and ready to scale.
-* **Human-Centric UI:** Leveraging my interest in UI/UX to ensure backend power is accessible via intuitive interfaces.
-
----
-
-### 📈 Recent Activity
-**Latest Project:** [Canvas LMS Dashboard Refactor](https://hairum-qureshi.dev/project-showcase)
-*Solving the "cluttered dashboard" problem for software engineering students through custom user scripts and clean UI overlays.*
-
----
-
-<p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+scalable+systems;Obsessing+over+DX;Learning+Urdu+on+the+side;Writing+clean+abstractions" alt="Typing SVG" />
-</p>
+* **Actively Interviewing:** Looking for New Grad SWE roles starting Summer 2026.
+* **Current Focus:** Software Engineering and building robust, production-ready web applications.
+* **Philosophy:** Deeply invested in clean architecture, type safety, and high-performance system design.
