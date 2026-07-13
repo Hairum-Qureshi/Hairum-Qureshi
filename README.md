@@ -66,10 +66,10 @@ Most of my projects are built around the **TypeScript ecosystem**, with **NestJS
 
 | Proficient With | Currently Exploring & Learning |
 | :--- | :--- |
-| **Languages:** TypeScript, JavaScript, Python | **Systems:** Advanced Distributed Systems Patterns |
-| **Backend:** NestJS, Node.js, Express, REST APIs | **Backend:** Go (Golang), gRPC, Microservices |
-| **Databases:** PostgreSQL, MongoDB, Prisma, Redis | **AI Integration:** Advanced RAG Optimization & Vector Search |
-| **Frontend:** React, Next.js, Tailwind CSS | **DevOps:** Kubernetes, CI/CD Pipelines |
+| **Languages:** TypeScript, JavaScript, Python | **Systems:** - |
+| **Backend:** NestJS, Node.js, Express, REST APIs | **Backend:** - |
+| **Databases:** PostgreSQL, MongoDB, Prisma, Redis | **AI Integration:** RAG Optimization & Vector Search |
+| **Frontend:** React, Tailwind CSS | **DevOps:** - |
 
 ---
 
