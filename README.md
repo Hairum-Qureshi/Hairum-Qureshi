@@ -93,10 +93,6 @@ Most of my projects are built around the **TypeScript ecosystem**, with **NestJS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hairum-Qureshi&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hairum-Qureshi&layout=compact&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hairum-Qureshi&theme=github-dark&hide_border=true)
 
 </div>
